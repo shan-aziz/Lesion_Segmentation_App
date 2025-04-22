@@ -1,4 +1,4 @@
-# Lesion Segmentation App
+# Skin Lesion Segmentation App
 
 A MATLAB-based interactive GUI application for segmenting lesions in medical images using **CIELuv color space** analysis and **Euclidean distance-based thresholding**.
 
